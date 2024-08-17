@@ -7,4 +7,8 @@
   <!-- AuroraStore -->
   <project path="prebuilts/AuroraStore" name="GXCUI-AOSP/prebuilts_AuroraStore" revision="fourteen" />
 
+  <!-- Calyx Datura firewall -->
+  <project path="prebuilts/datura" name="GXCUI-AOSP/prebuilts_datura" revision="fourteen" />
+  <project path="external/datura" name="GXCUI-AOSP/external_datura" revision="fourteen" />
+
 </manifest>
