@@ -14,7 +14,6 @@
   <!-- Nfc -->
   <project path="vendor/nxp/opensource/packages/apps/Nfc" name="GXCUI-AOSP/vendor_nxp_opensource_packages_apps_Nfc" revision="fourteen" />
   <project path="vendor/nxp/opensource/external/libnfc-nci" name="GXCUI-AOSP/vendor_nxp_opensource_external_libnfc-nci" revision="fourteen" />
-  <project path="hardware/nxp/nfc" name="GXCUI-AOSP/hardware_nxp_nfc" revision="fourteen" />
   <project path="vendor/nxp/nfc" name="GXCUI-AOSP/vendor_nxp_nfc" revision="fourteen" />
 
 </manifest>
