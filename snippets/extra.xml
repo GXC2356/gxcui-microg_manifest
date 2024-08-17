@@ -4,4 +4,7 @@
   <!-- MicroG -->
   <project path="vendor/partner/gms" name="GXCUI-AOSP/vendor_partner_gms" revision="fourteen" />
 
+  <!-- AuroraStore -->
+  <project path="prebuilts/AuroraStore" name="GXCUI-AOSP/prebuilts_AuroraStore" revision="fourteen" />
+
 </manifest>
